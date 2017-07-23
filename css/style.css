@@ -126,15 +126,15 @@ a:hover {
 	font-size: 22px;
 }
 
-.profile .profile-details .fa {
+.profile .profile-details .iconfont {
 	display: inline-block;
 	width: 20px;
 	height: 20px;
 	margin-right: 10px;
 	color: #e05d00;
 	text-align: center;
+	font-weight: bold;
 }
-
 .profile .profile-details .fa::before {
 	font-size: 20px;
 }
